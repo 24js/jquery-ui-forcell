@@ -1,7 +1,7 @@
 {
-  "name": "jquery-ui-espo",
-  "version": "0.1.0",
-  "description": "JqueryUI for EspoCRM.",
+  "name": "jquery-ui-forcell",
+  "version": "0.2.0",
+  "description": "JqueryUI for ForcellCRM.",
   "main": "index.js",
   "scripts": {
     "build": "grunt build",

@@ -1,4 +1,4 @@
-# JqueryUI for EspoCRM
+# JqueryUI for ForcellCRM
 
 Contains the following widgets:
 
